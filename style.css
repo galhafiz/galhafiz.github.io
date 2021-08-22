@@ -1,0 +1,22 @@
+body {
+  height: 2000px;
+}
+.jumbotron {
+  height: 600px;
+  padding-top: 6rem;
+  background-color: #e2edff;
+  background-image: url(img/oilrig2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px1;
+  border-bottom: 5px solid #75a8fc;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
